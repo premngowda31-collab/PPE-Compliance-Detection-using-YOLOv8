@@ -20,7 +20,8 @@ na# **SH17: A Dataset for Human Safety and Personal Protective Equipment Detecti
 5. [Citation](#citation)
 6. [License](#license)
 
----
+---## 🙏 Acknowledgement
+This project is based on and inspired by work from Vandana Mahadev.
 
 ## **Abstract**
 
